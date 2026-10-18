@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "side": "our-desk",
- "as_of": "2026-10-18T12:56:07-04:00",
+ "as_of": "2026-10-18T13:07:25-04:00",
  "paper_only": true,
  "k_cum": 74,
  "bar": {
@@ -45,13 +45,13 @@
     "n_decided": 659,
     "n_filled": 659,
     "fill_rate": 1.0,
-    "clv_c": -8.13,
+    "clv_c": -7.16,
     "clv_ci_c": [
-     -10.65,
-     -5.61
+     -9.49,
+     -4.82
     ],
-    "clv_n": 598,
-    "clv_coverage": 0.907,
+    "clv_n": 657,
+    "clv_coverage": 0.997,
     "pnl_usd_1ct": -8.8,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -159,13 +159,13 @@
     "n_decided": 7085,
     "n_filled": 7085,
     "fill_rate": 1.0,
-    "clv_c": -1.18,
+    "clv_c": -0.37,
     "clv_ci_c": [
-     -2.39,
-     0.04
+     -1.0,
+     0.26
     ],
-    "clv_n": 2076,
-    "clv_coverage": 0.293,
+    "clv_n": 7084,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 22.3,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -251,13 +251,13 @@
     "n_decided": 2709,
     "n_filled": 2709,
     "fill_rate": 1.0,
-    "clv_c": -1.16,
+    "clv_c": 0.47,
     "clv_ci_c": [
-     -3.39,
-     1.07
+     -0.85,
+     1.79
     ],
-    "clv_n": 949,
-    "clv_coverage": 0.35,
+    "clv_n": 2709,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 15.78,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -338,13 +338,13 @@
     "n_decided": 237,
     "n_filled": 237,
     "fill_rate": 1.0,
-    "clv_c": -14.79,
+    "clv_c": -8.03,
     "clv_ci_c": [
-     -19.59,
-     -10.0
+     -11.4,
+     -4.67
     ],
-    "clv_n": 148,
-    "clv_coverage": 0.624,
+    "clv_n": 237,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 2.7,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -366,7 +366,7 @@
     "breakeven_win_rate": 0.938,
     "ece_model": null,
     "ece_mid": 0.0497,
-    "close_quote_min_before_close_median": 1.0,
+    "close_quote_min_before_close_median": 0.0,
     "fillable_note": "no depth logged",
     "calibration": {
      "basis": "market price only (rule-based test, no model probability), traded rows",
@@ -425,13 +425,13 @@
     "n_decided": 92,
     "n_filled": 92,
     "fill_rate": 1.0,
-    "clv_c": -14.35,
+    "clv_c": -7.49,
     "clv_ci_c": [
-     -22.15,
-     -6.55
+     -13.53,
+     -1.45
     ],
-    "clv_n": 61,
-    "clv_coverage": 0.663,
+    "clv_n": 92,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 1.91,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -681,13 +681,13 @@
     "n_decided": 2709,
     "n_filled": 2190,
     "fill_rate": 0.8084,
-    "clv_c": 1.12,
+    "clv_c": 1.37,
     "clv_ci_c": [
-     -1.77,
-     4.01
+     -0.23,
+     2.97
     ],
-    "clv_n": 716,
-    "clv_coverage": 0.327,
+    "clv_n": 2190,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 46.59,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -768,13 +768,13 @@
     "n_decided": 2709,
     "n_filled": 2190,
     "fill_rate": 0.8084,
-    "clv_c": 1.12,
+    "clv_c": 1.37,
     "clv_ci_c": [
-     -1.77,
-     4.01
+     -0.23,
+     2.97
     ],
-    "clv_n": 716,
-    "clv_coverage": 0.327,
+    "clv_n": 2190,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 40.45,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -855,13 +855,13 @@
     "n_decided": 201,
     "n_filled": 179,
     "fill_rate": 0.8905,
-    "clv_c": 4.41,
+    "clv_c": 4.53,
     "clv_ci_c": [
-     -0.87,
-     9.69
+     -0.55,
+     9.61
     ],
-    "clv_n": 166,
-    "clv_coverage": 0.927,
+    "clv_n": 179,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 8.74,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -937,13 +937,13 @@
     "n_decided": 201,
     "n_filled": 179,
     "fill_rate": 0.8905,
-    "clv_c": 4.41,
+    "clv_c": 4.53,
     "clv_ci_c": [
-     -0.87,
-     9.69
+     -0.55,
+     9.61
     ],
-    "clv_n": 166,
-    "clv_coverage": 0.927,
+    "clv_n": 179,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": 8.24,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -1183,13 +1183,13 @@
     "n_decided": 4712,
     "n_filled": 4712,
     "fill_rate": 1.0,
-    "clv_c": -4.87,
+    "clv_c": -4.11,
     "clv_ci_c": [
-     -6.15,
-     -3.59
+     -5.06,
+     -3.16
     ],
-    "clv_n": 2713,
-    "clv_coverage": 0.576,
+    "clv_n": 4712,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": -182.23,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -1357,13 +1357,13 @@
     "n_decided": 699,
     "n_filled": 699,
     "fill_rate": 1.0,
-    "clv_c": -34.56,
+    "clv_c": -1.83,
     "clv_ci_c": [
-     -59.25,
-     -9.87
+     -4.72,
+     1.06
     ],
-    "clv_n": 8,
-    "clv_coverage": 0.011,
+    "clv_n": 699,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": -12.66,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -1531,10 +1531,13 @@
     "n_decided": 298,
     "n_filled": 298,
     "fill_rate": 1.0,
-    "clv_c": -77.0,
-    "clv_ci_c": null,
-    "clv_n": 1,
-    "clv_coverage": 0.003,
+    "clv_c": -5.44,
+    "clv_ci_c": [
+     -9.86,
+     -1.01
+    ],
+    "clv_n": 298,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": -17.05,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -1556,7 +1559,7 @@
     "breakeven_win_rate": 0.8592,
     "ece_model": 0.0151,
     "ece_mid": 0.0178,
-    "close_quote_min_before_close_median": 0.0,
+    "close_quote_min_before_close_median": 1.0,
     "fillable_note": "no depth logged",
     "calibration": {
      "basis": "model probability, all scored OOS rows of the frozen output",
@@ -1702,13 +1705,13 @@
     "n_decided": 2936,
     "n_filled": 2181,
     "fill_rate": 0.7428,
-    "clv_c": 0.81,
+    "clv_c": -0.51,
     "clv_ci_c": [
-     -1.83,
-     3.45
+     -2.36,
+     1.34
     ],
-    "clv_n": 1110,
-    "clv_coverage": 0.509,
+    "clv_n": 2181,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": -8.73,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -1730,7 +1733,7 @@
     "breakeven_win_rate": 0.6024,
     "ece_model": 0.0115,
     "ece_mid": 0.0183,
-    "close_quote_min_before_close_median": 1.0,
+    "close_quote_min_before_close_median": 0.0,
     "fillable_note": "no depth logged",
     "calibration": {
      "basis": "model probability, all scored OOS rows of the frozen output",
@@ -1876,13 +1879,13 @@
     "n_decided": 960,
     "n_filled": 960,
     "fill_rate": 1.0,
-    "clv_c": -10.61,
+    "clv_c": -10.95,
     "clv_ci_c": [
-     -13.5,
-     -7.71
+     -13.41,
+     -8.5
     ],
-    "clv_n": 717,
-    "clv_coverage": 0.747,
+    "clv_n": 960,
+    "clv_coverage": 1.0,
     "pnl_usd_1ct": -22.87,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -3112,10 +3115,13 @@
     "n_decided": 4725,
     "n_filled": 1274,
     "fill_rate": 0.2696,
-    "clv_c": -31.67,
-    "clv_ci_c": null,
-    "clv_n": 3,
-    "clv_coverage": 0.002,
+    "clv_c": 1.5,
+    "clv_ci_c": [
+     -0.99,
+     4.0
+    ],
+    "clv_n": 1266,
+    "clv_coverage": 0.994,
     "pnl_usd_1ct": -17.35,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
@@ -3137,7 +3143,7 @@
     "breakeven_win_rate": 0.454,
     "ece_model": 0.0283,
     "ece_mid": 0.0272,
-    "close_quote_min_before_close_median": 4.3,
+    "close_quote_min_before_close_median": 28.4,
     "fillable_note": "no depth logged",
     "calibration": {
      "basis": "model probability, all scored OOS rows of the frozen output",
