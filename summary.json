@@ -1,13 +1,13 @@
 {
  "schema": 1,
  "side": "anthony-desk",
- "as_of": "2026-10-18T09:24:15-04:00",
+ "as_of": "2026-10-18T09:27:54-04:00",
  "paper_only": true,
- "k_cum": 73,
+ "k_cum": 74,
  "bar": {
   "rule": "EV 95% lower bound > SE x E[max of k null t-stats], and p < 0.05/k",
   "emax_k": 2.4178,
-  "alpha": 0.000685
+  "alpha": 0.000676
  },
  "categories_owned": [
   "Crypto",
