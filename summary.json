@@ -1,12 +1,12 @@
 {
  "schema": 1,
  "side": "our-desk",
- "as_of": "2026-10-18T13:11:14-04:00",
+ "as_of": "2026-10-18T13:26:20-04:00",
  "paper_only": true,
  "k_cum": 74,
  "bar": {
   "rule": "EV 95% lower bound > SE x E[max of k null t-stats], and p < 0.05/k",
-  "emax_k": 2.4178,
+  "emax_k": 2.4228,
   "alpha": 0.000676
  },
  "categories_owned": [
@@ -3293,6 +3293,25 @@
    "logloss_model": null,
    "logloss_mid": null,
    "verdict": "RUNNING"
+  },
+  {
+   "id": "row40",
+   "category": "commodities",
+   "owner": "ours",
+   "prereg_ts": "2026-10-18",
+   "arm": "taker",
+   "name": "cm74 dispersion-model taker T-6h (0.5*lognormal(realized 6h sigma)+0.5*mid; edge>=3c; 1-c…",
+   "n": 157,
+   "ev_c": 1.63,
+   "ev_ci_c": [
+    -11.01,
+    12.51
+   ],
+   "brier_model": 0.07966,
+   "brier_mid": 0.0804,
+   "logloss_model": 0.26403,
+   "logloss_mid": 0.27119,
+   "verdict": "UNDERPOWERED"
   }
  ],
  "secondary_note": "secondary metrics are non-gating, display only; forward tests before their final look show outcome-free fields only"
