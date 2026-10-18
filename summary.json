@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "side": "anthony-desk",
- "as_of": "2026-10-18T10:55:23-04:00",
+ "as_of": "2026-10-18T10:59:20-04:00",
  "paper_only": true,
  "k_cum": 74,
  "bar": {
@@ -392,13 +392,13 @@
     "n_decided": 960,
     "n_filled": 960,
     "fill_rate": 1.0,
-    "clv_c": -10.76,
+    "clv_c": -10.49,
     "clv_ci_c": [
-     -14.25,
-     -7.28
+     -13.39,
+     -7.59
     ],
-    "clv_n": 501,
-    "clv_coverage": 0.522,
+    "clv_n": 712,
+    "clv_coverage": 0.742,
     "pnl_usd_1ct": -22.87,
     "pnl_usd_fillable": null,
     "fillable_contracts": null,
