@@ -1,7 +1,7 @@
 {
  "schema": 1,
  "side": "anthony-desk",
- "as_of": "2026-10-18T11:04:15-04:00",
+ "as_of": "2026-10-18T11:10:30-04:00",
  "paper_only": true,
  "k_cum": 74,
  "bar": {
@@ -35,7 +35,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "T1",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 659,
+    "n_decided": 659,
+    "n_filled": 659,
+    "fill_rate": 1.0,
+    "clv_c": -7.22,
+    "clv_ci_c": [
+     -9.55,
+     -4.9
+    ],
+    "clv_n": 659,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": -8.8,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 9.66,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 1224.41,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "model-v1 M1",
@@ -86,7 +116,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2a-30p",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 7085,
+    "n_decided": 7085,
+    "n_filled": 7085,
+    "fill_rate": 1.0,
+    "clv_c": -1.74,
+    "clv_ci_c": [
+     -1.8,
+     -1.68
+    ],
+    "clv_n": 7085,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 22.3,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 126.34,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 2149.46,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2a",
@@ -105,7 +165,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2a-30b",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 2709,
+    "n_decided": 2709,
+    "n_filled": 2709,
+    "fill_rate": 1.0,
+    "clv_c": -2.43,
+    "clv_ci_c": [
+     -2.57,
+     -2.29
+    ],
+    "clv_n": 2709,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 15.78,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 126.16,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 2121.76,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2a",
@@ -124,7 +214,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2a-60p",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 237,
+    "n_decided": 237,
+    "n_filled": 237,
+    "fill_rate": 1.0,
+    "clv_c": -7.04,
+    "clv_ci_c": [
+     -9.5,
+     -4.57
+    ],
+    "clv_n": 237,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 2.7,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 125.71,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 369.25,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2a",
@@ -143,7 +263,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2a-60b",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 92,
+    "n_decided": 92,
+    "n_filled": 92,
+    "fill_rate": 1.0,
+    "clv_c": -5.53,
+    "clv_ci_c": [
+     -9.53,
+     -1.52
+    ],
+    "clv_n": 92,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 1.91,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 123.29,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 324.8,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "v2",
@@ -211,7 +361,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "INCONCLUSIVE"
+   "verdict": "INCONCLUSIVE",
+   "secondary": {
+    "id": "V2d-bt",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "INCONCLUSIVE",
+    "n_posted": 2709,
+    "n_decided": 2709,
+    "n_filled": 2190,
+    "fill_rate": 0.8084,
+    "clv_c": 1.3,
+    "clv_ci_c": [
+     1.19,
+     1.4
+    ],
+    "clv_n": 2190,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 46.59,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 126.16,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 1996.0,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2d",
@@ -230,7 +410,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "INCONCLUSIVE"
+   "verdict": "INCONCLUSIVE",
+   "secondary": {
+    "id": "V2d-bt-f",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "INCONCLUSIVE",
+    "n_posted": 2709,
+    "n_decided": 2709,
+    "n_filled": 2190,
+    "fill_rate": 0.8084,
+    "clv_c": 1.3,
+    "clv_ci_c": [
+     1.19,
+     1.4
+    ],
+    "clv_n": 2190,
+    "clv_coverage": 1.0,
+    "pnl_usd_1ct": 40.45,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 126.16,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 2060.53,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2d",
@@ -249,7 +459,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2d-ho",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 201,
+    "n_decided": 201,
+    "n_filled": 179,
+    "fill_rate": 0.8905,
+    "clv_c": 4.41,
+    "clv_ci_c": [
+     -0.87,
+     9.69
+    ],
+    "clv_n": 166,
+    "clv_coverage": 0.927,
+    "pnl_usd_1ct": 8.74,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 5.99,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 357.0,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2d",
@@ -268,7 +508,37 @@
    "brier_mid": null,
    "logloss_model": null,
    "logloss_mid": null,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2d-ho-f",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 201,
+    "n_decided": 201,
+    "n_filled": 179,
+    "fill_rate": 0.8905,
+    "clv_c": 4.41,
+    "clv_ci_c": [
+     -0.87,
+     9.69
+    ],
+    "clv_n": 166,
+    "clv_coverage": 0.927,
+    "pnl_usd_1ct": 8.24,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 5.99,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 361.78,
+    "maxdd_usd": null,
+    "dbrier": null,
+    "dlogloss": null,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "V2c",
@@ -363,7 +633,37 @@
    "brier_mid": 0.11816,
    "logloss_model": 0.37522,
    "logloss_mid": 0.37848,
-   "verdict": "FAIL"
+   "verdict": "FAIL",
+   "secondary": {
+    "id": "V2e",
+    "kind": "backtest",
+    "blinded": false,
+    "verdict": "FAIL",
+    "n_posted": 2936,
+    "n_decided": 2936,
+    "n_filled": 2181,
+    "fill_rate": 0.7428,
+    "clv_c": 1.43,
+    "clv_ci_c": [
+     0.73,
+     2.13
+    ],
+    "clv_n": 1865,
+    "clv_coverage": 0.855,
+    "pnl_usd_1ct": -8.73,
+    "pnl_usd_fillable": null,
+    "fillable_contracts": null,
+    "capacity_ct_per_week": null,
+    "weeks": 82.25,
+    "short_window": false,
+    "depth_median": null,
+    "depth_coverage": 0.0,
+    "maxdd_c": 3204.0,
+    "maxdd_usd": null,
+    "dbrier": -0.00064,
+    "dlogloss": -0.00326,
+    "fillable_note": "no depth logged"
+   }
   },
   {
    "id": "idx-v5",
